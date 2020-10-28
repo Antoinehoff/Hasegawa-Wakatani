@@ -1,4 +1,7 @@
 # Hasegawa-Wakatani
+
+{img https://github.com/Antoinehoff/Hasegawa-Wakatani/blob/master/density.gif}
+
 Matlab solver of the Hasegawa-Wakatani non linear turbulent system.
 
 How to use it : 
