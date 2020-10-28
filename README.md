@@ -1,6 +1,6 @@
 # Hasegawa-Wakatani
 
-{img https://github.com/Antoinehoff/Hasegawa-Wakatani/blob/master/density.gif}
+![Simulation Demo, N=256, L=40, a=0.1, mu=1e-3] (https://github.com/Antoinehoff/Hasegawa-Wakatani/blob/master/density.gif)
 
 Matlab solver of the Hasegawa-Wakatani non linear turbulent system.
 
