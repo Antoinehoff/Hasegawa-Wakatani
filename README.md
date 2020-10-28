@@ -1,7 +1,8 @@
-![](density.gif)
-Simulation Demo, N=256, L=40, a=0.1, mu=1e-3
-
 # Matlab solver of the Hasegawa-Wakatani non linear turbulent system.
+
+![](density.gif)
+
+(Simulation Demo, N=256, L=40, a=0.1, mu=1e-3)
 
 How to use it : 
 
