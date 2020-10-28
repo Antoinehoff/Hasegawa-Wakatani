@@ -1,8 +1,7 @@
-# Hasegawa-Wakatani
+![](density.gif)
+Simulation Demo, N=256, L=40, a=0.1, mu=1e-3
 
-![Simulation Demo, N=256, L=40, a=0.1, mu=1e-3](density.gif)
-
-Matlab solver of the Hasegawa-Wakatani non linear turbulent system.
+# Matlab solver of the Hasegawa-Wakatani non linear turbulent system.
 
 How to use it : 
 
