@@ -1,4 +1,4 @@
-# Matlab solver of the Hasegawa-Wakatani non linear turbulent system.
+# Matlab solver of the Hasegawa-Wakatani non linear turbulent system
 
 ![](density.gif)
 
